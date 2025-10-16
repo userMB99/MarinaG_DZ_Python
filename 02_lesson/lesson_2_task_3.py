@@ -1,2 +1,8 @@
-lst = [11, 5, 8, 32, 15, 3, 20, 132, 21, 4, 555, 9, 20]
-    if (len) < 30 and a .
+import math
+
+def square(t):
+    return math.ceil(t*t)
+
+
+t=float(input("Введите сторону квадрата: "))
+print(f"Площадь квадрата:{square(t)}")

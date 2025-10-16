@@ -13,6 +13,5 @@ def month_to_season(month):
         return ("Осень")
     else:
         return "Некорректный номер месяца"
-    
-    print (month_to_season(input("Введите номер месяца: ")))
+        print (month_to_season(input("Введите номер месяца: ")))
     
