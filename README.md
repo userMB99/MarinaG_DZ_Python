@@ -1,2 +1,2 @@
 # MarinaG_DZ_Python
-Домашнее задание 1 по Python
+Домашнее задание 3 ООП в Python
